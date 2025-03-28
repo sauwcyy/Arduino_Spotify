@@ -1,8 +1,8 @@
 {
     "Spotify":{
         "scope": "user-read-currently-playing",
-        "client_secret": "",
-        "client_id": "",
+        "client_secret": "b20a73727cc445d1b7498b252c3aec6d",
+        "client_id": "0e059c5ae2324714868fb812401cee9e",
         "redirect_uri": "",
         "username": ""
     },
